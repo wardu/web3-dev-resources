@@ -106,7 +106,7 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 
 | Link                                | Description                            |
 | ----------------------------------- | -------------------------------------- |
-| [1inch](https://1inch.io/)          | API for querying decentralize exchange |
+| [1inch](https://1inch.io/)          | Decentralised Exchange |
 | [dYdX](https://docs.dydx.exchange/) | Decentralized cryptocurrency exchange  |
 
 <br />
@@ -123,7 +123,7 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 
 | Link                                                  | Description                                                |
 | ----------------------------------------------------- | ---------------------------------------------------------- |
-| [INFURA Ethereum](https://infura.io/product/ethereum) | Interaction with the Ethereum mainnet and several testnets |
+| [INFURA](https://infura.io/) | Interact with Ethereum through an Infura node |
 
 <br />
 
