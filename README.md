@@ -81,6 +81,7 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 
 | Link | Description |
 | ---- | ----------- |
+| [Sovryn](https://www.sovryn.app/) | DeFi for Bitcoin |
 
 <br />
 
