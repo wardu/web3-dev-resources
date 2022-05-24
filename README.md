@@ -10,31 +10,31 @@ Resources and tools to help users of Decentralised Finance (DeFi).
   
 ## Sections:
 <a href='#Bitcoin'>
-<img src='https://img.shields.io/badge/Bitcoin-green?style=for-the-badge'>
+<img src='https://img.shields.io/badge/Bitcoin-d6232d?style=for-the-badge'>
 </a>
 <a href='#Bots'>
-<img src='https://img.shields.io/badge/Bots-pink?style=for-the-badge'>
+<img src='https://img.shields.io/badge/Bots-d623a6?style=for-the-badge'>
 </a>
 <a href=#>
-<img src='https://img.shields.io/badge/Data-purple?style=for-the-badge'>
+<img src='https://img.shields.io/badge/Data-ac23d6?style=for-the-badge'>
 </a>
 <a href=#Dexs>
-<img src='https://img.shields.io/badge/Dexs-red?style=for-the-badge'>
+<img src='https://img.shields.io/badge/Dexs-2c23d6?style=for-the-badge'>
 </a>
 <a href=#FlashLoans>
-<img src='https://img.shields.io/badge/FlashLoans-lightblue?style=for-the-badge'>
+<img src='https://img.shields.io/badge/FlashLoans-5598e9?style=for-the-badge'>
 </a>
 <a href=#Nodes>
-<img src='https://img.shields.io/badge/Nodes-gray?style=for-the-badge'>
+<img src='https://img.shields.io/badge/Nodes-55e9e6?style=for-the-badge'>
 </a>
 <a href=#NFTs>
-<img src='https://img.shields.io/badge/NFTs-orange?style=for-the-badge'>
+<img src='https://img.shields.io/badge/NFTs-55e999?style=for-the-badge'>
 </a>
 <a href=#Oracles>
-<img src='https://img.shields.io/badge/Oracles-blue?style=for-the-badge'>
+<img src='https://img.shields.io/badge/Oracles-75e955?style=for-the-badge'>
 </a>
 <a href=#Tutorials>
-<img src='https://img.shields.io/badge/Tutorials-turquoise?style=for-the-badge'>
+<img src='https://img.shields.io/badge/Tutorials-d6e955?style=for-the-badge'>
 </a>
 
 <br />
