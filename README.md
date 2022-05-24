@@ -21,6 +21,9 @@ Resources and tools to help users of Decentralised Finance (DeFi).
 <a href=#Dexs>
 <img src='https://img.shields.io/badge/Dexs-red?style=for-the-badge'>
 </a>
+<a href=#FlashLoans>
+<img src='https://img.shields.io/badge/FlashLoans-lightblue?style=for-the-badge'>
+</a>
 <a href=#Nodes>
 <img src='https://img.shields.io/badge/Nodes-gray?style=for-the-badge'>
 </a>
@@ -111,6 +114,13 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 | [dYdX](https://docs.dydx.exchange/) | Decentralized cryptocurrency exchange  |
 
 <br />
+
+<br />
+
+<h1 id='FlashLoans'>FlashLoans</h1>
+
+| Link | Description |
+| ---- | ----------- |
 
 <h1 id='NFTs'>NFTs</h1>
 
