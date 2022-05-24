@@ -57,21 +57,23 @@ DeFi protocols are sometimes reffered to as 'Money Legos' as they are the 'build
 
 <br />
 
-# ✍️ Contributing
+# Contributing
 
-If you would like to contribute to this project, improvements to the project and contributions from open-source developers are greatly appreciated.
-
-**Read more on the [Contributions Guide](#).**
+> If you would like to contribute to this project, improvements to the project and contributions from open-source developers are greatly appreciated.
+>
+> **Read more on the [Contributions Guide](#).**
 
 <br />
 
 # Support the Project
 
-If you want to support the active development of the Web3-finance resource:
+> If you want to support the active development of the Web3-finance resource:
+>
+> - Add a Star to it here on Github
+> - Tweet about the project
+>  - Tag [@\_wardu](https://twitter.com/_wardu)
 
-- Add a Star to it here on Github
-- Tweet about the project
-  - Tag [@\_wardu](https://twitter.com/_wardu)
+<br />
 
 _**PS:** If you like this project and it's goals, please consider sponsoring me @ wardu.eth to continue the development of this project._
 
