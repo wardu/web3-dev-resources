@@ -123,6 +123,7 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 
 | Link | Description |
 | ---- | ----------- |
+| [Aave V3](https://github.com/defispartan/hackmoney-demo) | An implementation of a flash loan using the Aave V3 protocol |
 
 <h1 id='NFTs'>NFTs</h1>
 
