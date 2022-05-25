@@ -9,6 +9,9 @@ Resources and tools to help users of Decentralised Finance (DeFi).
 <div align='center'>
   
 ## Sections:
+  <a href='#AMM'>
+<img src='https://img.shields.io/badge/AMM-98180d?style=for-the-badge'>
+</a>
 <a href='#Bitcoin'>
 <img src='https://img.shields.io/badge/Bitcoin-d6232d?style=for-the-badge'>
 </a>
@@ -81,6 +84,14 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 <br />
 
 ---
+
+<h1 id='AMM'>AMM</h1>
+
+| Link | Description |
+| ---- | ----------- |
+| [Bancor V3](https://app.bancor.network/earn) | Automated Market Maker. Single-sided staking. Zero risk of impermanent loss |
+
+<br />
 
 <h1 id='Bitcoin'>Bitcoin</h1>
 
