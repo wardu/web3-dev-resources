@@ -149,6 +149,7 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 | Link                                                  | Description                                                |
 | ----------------------------------------------------- | ---------------------------------------------------------- |
 | [INFURA](https://infura.io/) | Interact with Ethereum through an Infura node |
+| [Alchemy](https://www.alchemy.com/) | Access the Ethereum blockchain through an Alchemy node |
 
 <br />
 
