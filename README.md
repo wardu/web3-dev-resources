@@ -105,7 +105,7 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 
 | Link | Description |
 | ---- | ----------- |
-
+| [MEV bot - how to](https://www.blocknative.com/blog/mev-and-creating-a-basic-arbitrage-bot-on-ethereum-mainnet)| Guide to MEV arbitrage bots |
 <br />
 
 <h1 id='Data'>Data</h1>
