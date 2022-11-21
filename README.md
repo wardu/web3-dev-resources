@@ -135,6 +135,9 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 | [Aave V3](https://github.com/defispartan/hackmoney-demo) | An example of a flash loan using the Aave V3 protocol (links to code on Github) |
 | [FuruCombo](https://furucombo.app/) | FuruCombo allows users to use flash loans (including for uses like arbitrage) without coding |
 
+<br /> 
+
+
 <h1 id='NFTs'>NFTs</h1>
 
 | Link                                       | Description |
