@@ -84,7 +84,7 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 
 ---
 
-<h1 id='AMM'>AMM</h1>
+<h1 id='AMM'>AMM (Autometic Market Maker)</h1>
 
 | Link | Description |
 | ---- | ----------- |
@@ -118,7 +118,7 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 
 <br />
 
-<h1 id='Dexs'> DEXs </h1>
+<h1 id='Dexs'> DEXs</h1>
 
 | Link                                | Description                            |
 | ----------------------------------- | -------------------------------------- |
@@ -127,7 +127,6 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 
 <br />
 
-<br />
 
 <h1 id='FlashLoans'>FlashLoans</h1>
 
