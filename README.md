@@ -36,8 +36,11 @@ Resources and tools to help developers of DeFi (Decentralised Finance) and Web 3
 <a href=#Oracles>
 <img src='https://img.shields.io/badge/Oracles-75e955?style=for-the-badge'>
 </a>
+  <a href=#Rust>
+<img src='https://img.shields.io/badge/Rust-d6e955?style=for-the-badge'>
+</a>
 <a href=#Tutorials>
-<img src='https://img.shields.io/badge/Tutorials-d6e955?style=for-the-badge'>
+<img src='https://img.shields.io/badge/Tutorials-ffa500?style=for-the-badge'>
 </a>
 
 <br />
