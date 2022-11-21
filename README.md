@@ -1,6 +1,6 @@
-# web3-finance
+# web3-dev-resources
 
-Resources and tools to help users of Decentralised Finance (DeFi).
+Resources and tools to help developers of DeFi (Decentralised Finance) and Web 3.0.
 
 <br />
 
@@ -46,17 +46,13 @@ Resources and tools to help users of Decentralised Finance (DeFi).
 
 ---
 
-DeFi offers new opportunities in finance and investing that were not available to many before in the traditional finance setting. However, DeFi is novel and often complex. Although DeFi is permissionless, the barriers to entry are often technical sophistication and/or financial literacy.
-
-This document aims to be a guide to the resources and tools that can support users to utilise the possibilities in the DeFi ecosystem. From knowing the different between APR and APY, to the formulas behind exotic sythetic products, from checking if a protocol's smart contracts has been audited, to writing an automated trading system. A more financially literate, technologically sophisticated userbase is beneficial for development and wider adoption.
-
-DeFi protocols are sometimes reffered to as 'Money Legos' as they are the 'building blocks' of the decentralised financial system that is being built on blockchain technologies. This document is the cement to these Money Legos.
+DeFi protocols are sometimes reffered to as 'Money Legos' as they are the 'building blocks' of the decentralised financial system that is being built on blockchain technologies. This document aims to be the cement to these Money Legos.
 
 <br />
 
 # Project Goal
 
-> Bring new possibilities and opportunites to users of DeFi through education
+> Provide a curated list of useful resources in order to help developers build Web 3.0 safely, securely and efficiently. 
 
 <br />
 
