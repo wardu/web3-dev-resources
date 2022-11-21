@@ -88,7 +88,7 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 
 | Link | Description |
 | ---- | ----------- |
-| [Bancor V3](https://app.bancor.network/earn) | Automated Market Maker. Single-sided staking. Zero risk of impermanent loss |
+| [Bancor V3](https://docs.bancor.network/about-bancor-network/bancor-v3) | Decentralized network of on-chain automated market makers  |
 
 <br />
 
@@ -96,7 +96,7 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 
 | Link | Description |
 | ---- | ----------- |
-| [Sovryn](https://www.sovryn.app/) | DeFi for Bitcoin |
+| [Sovryn](https://www.sovryn.app/) | DeFi for Bitcoin (EVM smart-contract compatible) |
 
 <br />
 
@@ -114,7 +114,7 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 | [Bitquery](https://graphql.bitquery.io/ide)     | Blockchain Data, APIs, Dashboard Analytics, Widgets                |
 | [Etherscan](https://etherscan.io/)              | Ethereum block explorer                                            |
 | [The Graph](https://thegraph.com)               | Indexing protocol for querying networks like Ethereum with GraphQL |
-| [CoinMarketCap](https://coinmarketcap.com/api/) | Cryptocurrencies Prices                                            |
+| [CoinMarketCap](https://coinmarketcap.com/api/) | Cryptocurrency Prices                                            |
 
 <br />
 
@@ -142,7 +142,7 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 
 | Link                                       | Description |
 | ------------------------------------------ | ----------- |
-| [icy.tools](https://developers.icy.tools/) | NFT API     |
+| [icy.tools](https://developers.icy.tools/) | GrapgQL API for data on NFTs and tokens   |
 
 <br />
 
