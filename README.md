@@ -164,6 +164,14 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 
 <br />
 
+<h1 id='Rust'>Rust</h1>
+
+| Link                             | Description              |
+| -------------------------------- | ------------------------ |
+
+
+<br />
+
 <h1 id='Smart Contracts'>Smart Contracts</h1>
 
 | Link | Description |
