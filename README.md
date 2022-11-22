@@ -39,6 +39,10 @@ Resources and tools to help developers of DeFi (Decentralised Finance) and Web 3
   <a href=#Rust>
 <img src='https://img.shields.io/badge/Rust-d6e955?style=for-the-badge'>
 </a>
+  </a>
+  <a href=#Smart-Contracts>
+<img src='https://img.shields.io/badge/SmartContracts-7f7f00?style=for-the-badge'>
+</a>
 <a href=#Tutorials>
 <img src='https://img.shields.io/badge/Tutorials-ffa500?style=for-the-badge'>
 </a>
@@ -172,7 +176,7 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 
 <br />
 
-<h1 id='Smart Contracts'>Smart Contracts</h1>
+<h1 id='Smart-Contracts'>Smart Contracts</h1>
 
 | Link | Description |
 | ---- | ----------- |
