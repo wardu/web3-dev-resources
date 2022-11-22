@@ -164,6 +164,12 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 
 <br />
 
+<h1 id='Smart Contracts'>Smart Contracts</h1>
+
+| Link | Description |
+| ---- | ----------- |
+| [Moonbeam](https://moonbeam.network/) | Ethereum compatible smart-contracts on Polkadot |
+
 <h1 id='Tutorials'>Tutorials</h1>
 
 | Link | Description |
