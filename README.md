@@ -182,6 +182,7 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 
 | Link                             | Description              |
 | -------------------------------- | ------------------------ |
+| [wat2wasm](https://webassembly.github.io/wabt/demo/wat2wasm/) | WebAssembly translation tool |
 
 
 <br />
