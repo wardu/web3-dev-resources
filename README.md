@@ -192,6 +192,7 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 | Link | Description |
 | ---- | ----------- |
 | [Moonbeam](https://moonbeam.network/) | Ethereum compatible smart-contracts on Polkadot |
+| [dapp tools](https://dapp.tools/) | Command line tools and smart contract libraries for Ethereum smart contract development |
 
 <h1 id='Tutorials'>Tutorials</h1>
 
