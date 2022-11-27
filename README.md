@@ -36,10 +36,12 @@ Resources and tools to help developers of DeFi (Decentralised Finance) and Web 3
 <a href=#Oracles>
 <img src='https://img.shields.io/badge/Oracles-75e955?style=for-the-badge'>
 </a>
+  <a href=#Reference>
+<img src='https://img.shields.io/badge/Reference-d6e955?style=for-the-badge'>
+</a>
   <a href=#Rust>
 <img src='https://img.shields.io/badge/Rust-d6e955?style=for-the-badge'>
 </a>
-  </a>
   <a href=#Smart-Contracts>
 <img src='https://img.shields.io/badge/SmartContracts-7f7f00?style=for-the-badge'>
 </a>
@@ -168,11 +170,18 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 
 <br />
 
-<h1 id='Rust'>Rust</h1>
+<h1 id='Reference'>Reference</h1>
 
 | Link                             | Description              |
 | -------------------------------- | ------------------------ |
 | [EVM Codes](https://www.evm.codes/?fork=merge) | An interactive reference of the Ethereum Virtual Machine Opcodes |
+
+<br />
+
+<h1 id='Rust'>Rust</h1>
+
+| Link                             | Description              |
+| -------------------------------- | ------------------------ |
 
 
 <br />
