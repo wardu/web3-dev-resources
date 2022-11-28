@@ -202,6 +202,7 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 | [CryptoZombies](https://cryptozombies.io/) | Learn DApp development by making a game |
 | [Capture the Ether](https://capturetheether.com/) | Capture-the-flag style challenges to learn about security |
 | [Youtube Tutorial](https://www.youtube.com/watch?v=gyMwXuJrbJQ) | Patrick Collins / FreeCodeCamp 32hr Solidity tutorial |
+| [Ethernaut](https://ethernaut.openzeppelin.com/) | The Ethernaut game from OpenZeppelin |
 
 <br />
 <br />
