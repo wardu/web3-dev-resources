@@ -207,6 +207,7 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 | [Ethernaut](https://ethernaut.openzeppelin.com/) | The Ethernaut game from OpenZeppelin |
 | [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) | An offensive DeFi security game |
 | [Dark Forest](https://zkga.me/) | zkSNARK space warfare |
+| [SpeedRunEthereum](https://speedrunethereum.com/) | Learn to build on Ethereum |
 
 <br />
 <br />
