@@ -206,6 +206,7 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 | [Youtube Tutorial](https://www.youtube.com/watch?v=gyMwXuJrbJQ) | Patrick Collins / FreeCodeCamp 32hr Solidity tutorial |
 | [Ethernaut](https://ethernaut.openzeppelin.com/) | The Ethernaut game from OpenZeppelin |
 | [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) | An offensive DeFi security game |
+| [Dark Forest](https://zkga.me/) | zkSNARK space warfare |
 
 <br />
 <br />
