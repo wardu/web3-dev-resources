@@ -124,6 +124,7 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 | [CoinMarketCap](https://coinmarketcap.com/api/) | Cryptocurrency Prices                                            |
 | [Crypto [Periodic] Table](https://jes.al/crypto-table/) | CryptoProjects organised by type into a Periodic Table style layout |
 | [ABI getter](https://abi.w1nt3r.xyz/) | An ABI 'guesser' for unverified contracts that you may find on Etherscan etc.. |
+| [Zapper](https://zapper.fi/) | A wallet tracker. Follow other wallets. Displays NFTs, DAOs, DeFi |
 
 <br />
 
