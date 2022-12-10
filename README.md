@@ -197,6 +197,7 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 | [Moonbeam](https://moonbeam.network/) | Ethereum compatible smart-contracts on Polkadot |
 | [dapp tools](https://dapp.tools/) | Command line tools and smart contract libraries for Ethereum smart contract development |
 | [Tenderly](https://tenderly.co/) | Advanced debugging (contract interaction etc.) |
+| [CookBook](https://www.cookbook.dev/) | Searchable database of smart contracts |
 
 <h1 id='Tutorials'>Tutorials</h1>
 
