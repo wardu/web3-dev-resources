@@ -178,6 +178,7 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 | Link                             | Description              |
 | -------------------------------- | ------------------------ |
 | [EVM Codes](https://www.evm.codes/?fork=merge) | An interactive reference of the Ethereum Virtual Machine Opcodes |
+| [Sepolia](https://sepolia.dev/) | Ethereum testnet for testing DApps | 
 
 <br />
 
